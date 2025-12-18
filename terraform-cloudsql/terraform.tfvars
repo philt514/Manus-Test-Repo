@@ -1,0 +1,5 @@
+project_id = "manus-db-project"
+region     = "us-central1"
+db_name    = "app_db"
+db_user    = "admin"
+db_password = "odl/czbrlTQCOkbmU6oaxQ=="
